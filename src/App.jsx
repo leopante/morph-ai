@@ -20,7 +20,7 @@ function App() {
     },
     {
       name: "Teen Crab",
-      marketCap: 15000,
+      marketCap: 30000,
       color: "#ff8c42",
       description: "Growing stronger! The claws are getting sharper",
       emoji: "🦀",
@@ -29,7 +29,7 @@ function App() {
     },
     {
       name: "Adult Lobster",
-      marketCap: 60000,
+      marketCap: 100000,
       color: "#e63946",
       description: "Fully matured! Dominating the ocean floor",
       emoji: "🦞",
@@ -38,7 +38,7 @@ function App() {
     },
     {
       name: "Mega Lobster",
-      marketCap: 100000,
+      marketCap: 300000,
       color: "#d90368",
       description: "Evolution complete! A legendary beast emerges",
       emoji: "🐉",
@@ -47,7 +47,7 @@ function App() {
     },
     {
       name: "Cosmic Lobster",
-      marketCap: 300000,
+      marketCap: 1000000,
       color: "#00b4d8",
       description: "MOONSHOT! Transcended to the stars 🌟",
       emoji: "🚀",
@@ -135,9 +135,9 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="logo-container">
-          <img src="/coin-logo.png" alt="MORPH AI" className="logo-img" />
+          <img src="/images/coin-logo.png" alt="MOLT AI" className="logo-img" />
           <h1 className="title">
-            <span className="glitch" data-text="MORPH AI">MORPH AI</span>
+            <span className="glitch" data-text="MOLT AI">MOLT AI</span>
           </h1>
         </div>
         <button className="connect-wallet-btn">
