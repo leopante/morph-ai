@@ -135,9 +135,9 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="logo-container">
-          <img src="/images/coin-logo.png" alt="MOLTY" className="logo-img" />
+          <img src="/images/coin-logo.png" alt="CLAWDY" className="logo-img" />
           <h1 className="title">
-            <span className="glitch" data-text="MOLTY">MOLTY</span>
+            <span className="glitch" data-text="CLAWDY">CLAWDY</span>
           </h1>
         </div>
         <button className="connect-wallet-btn">
